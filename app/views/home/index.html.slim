@@ -1,0 +1,19 @@
+doctype html
+html
+  head
+    title CleanHouseApi
+    = stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true
+    = javascript_include_tag 'application', 'data-turbolinks-track' => true
+    = csrf_meta_tags
+  body
+    .row
+      .col-md-4.col-md-offset-4
+        = t('home.description_text')
+    .row
+      .col-md-4.col-md-offset-4  
+        button.btn.btn-default.btn-lg
+          = t('home.contact')
+        button.btn.btn-default.btn-lg
+          = t('home.postulate')
+
+

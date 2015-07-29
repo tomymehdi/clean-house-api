@@ -1,0 +1,6 @@
+en:
+  hello: 'Hello world'
+  home:
+    log_in: 'Log in'
+    log_in_with_facebook: 'Log in with Facebook'
+    log_out: 'Sign out'
