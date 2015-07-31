@@ -1,9 +1,0 @@
-en:
-  hello: 'Hello world'
-  home:
-    log_in: 'Iniciar sesion'
-    log_in_with_facebook: 'Iniciar sesion con Facebook'
-    log_out: 'Cerrar sesion'
-    contact: 'Contactar'
-    postulate: 'Postularme'
-    description_text: 'Para conseguir alguien que limpie tu casa presiona contactar, para postularte para trabajar presiona postularme'
